@@ -1,1 +1,2 @@
 # multiplication-game
+when i was in class 5th I made a simple mulplication app for myself to practise multiplying random 2digitx2digit numbers since the apps that existed then only featued times tables uptill 10. this project was made using easygui in python. It lets the user enter the tables he wants to practise and randomly shoots multiplication questions on the screen. It also keeps a track of the users score.
